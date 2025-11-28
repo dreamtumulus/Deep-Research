@@ -1,0 +1,5 @@
+{
+  "name": "DeepResearch Pro",
+  "description": "A professional-grade deep research assistant capable of analyzing web sources, local documents (DOCX, CSV, PDF, Images), and generating comprehensive reports using Gemini 2.5/3.0 models.",
+  "requestFramePermissions": []
+}
